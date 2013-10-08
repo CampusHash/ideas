@@ -57,4 +57,4 @@ You'll get a JSON like this.
 ### Implementation ###
 
 * Language: [Python](http://python.org)
-* Web Framework: [Flask](http://flask.poocoo.org)
+* Web Framework: [Flask](http://flask.pocoo.org)
