@@ -14,7 +14,7 @@ A simple RESTful API which will spit out the PNR data in JSON format.
 Suppose your PNR is __6223797269__. You just have to do a ``GET`` at:
 
 ```
-http://pnrapi.dfth.in/6223797269
+http://your-api-domain/6223797269
 ```
 
 You'll get a JSON like this.
